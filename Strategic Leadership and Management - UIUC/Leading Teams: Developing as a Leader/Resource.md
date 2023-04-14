@@ -1,2 +1,3 @@
 - [What is self-leadership? Models, theories, and examples](https://positivepsychology.com/self-leadership/#:~:text=Self%2Dleadership%20is%20the%20practice,management%20literature%20by%20Charles%20C.)
 - [What self-awareness really is (and how to cultivate it)](https://hbr.org/2018/01/what-self-awareness-really-is-and-how-to-cultivate-it)
+- [Social Intelligence | Daniel Goleman | Talks at Google](https://www.youtube.com/watch?v=-hoo_dIOP8k)
